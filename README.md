@@ -1,14 +1,14 @@
 # diffusion-book
 
-2022年の技術書典13で頒布した『Diffusion Models 入門』のソースコードリポジトリです。
+2023年5月の技術書典14で頒布した『Diffusion Models 入門』のソースコードリポジトリです。
 
 ## モデルのweight
 
-学習済みのweightファイルを提供します。[こちら](https://drive.google.com/file/d/1zjeed0MYY55s8Q2bkRcDhk4Yn4oXyHCK/view?usp=sharing)からダウンロードしてください。
+学習済みのweightファイルを提供します。[Google Drive](https://drive.google.com/file/d/1FPGPbVdWzi4K3y_wuHOQrgMHZxP_iJa-/view?usp=share_link)からダウンロードしてください。
 
-## 技術書典13
+## 技術書典14
 
-技術書展13については[こちら](https://techbookfest.org/event/tbf13)。
+技術書典14については[こちら](https://techbookfest.org/event/tbf14)。
 
 ## 書籍について
 
